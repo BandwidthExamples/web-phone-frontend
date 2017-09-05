@@ -1,4 +1,8 @@
-#web-phone-frontend
+<div align="center">
+# Bandwidth Web Phone Frontend
+
+<img src="https://s3.amazonaws.com/bwdemos/BW-Voice-Messaging.png" />
+</div>
 
 Frontend for web-based phone application that features Catapult calls, SMS and MMS capabilities.
 
